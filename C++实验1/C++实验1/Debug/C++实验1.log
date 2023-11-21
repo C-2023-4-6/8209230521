@@ -1,0 +1,5 @@
+﻿  实验1.cpp
+C:\Users\木子盛夏\source\repos\C++实验1\C++实验1\实验1.cpp(7,7): error C2374: “i”: 重定义；多次初始化
+C:\Users\木子盛夏\source\repos\C++实验1\C++实验1\实验1.cpp(5): message : 参见“i”的声明
+  源.cpp
+  正在生成代码...
