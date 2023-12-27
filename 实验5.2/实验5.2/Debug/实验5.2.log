@@ -1,0 +1,10 @@
+﻿  student.cpp
+C:\Users\木子盛夏\source\repos\实验5.2\实验5.2\student.cpp(13,10): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  student.h
+  main.cpp
+C:\Users\木子盛夏\source\repos\实验5.2\实验5.2\main.cpp(6,31): error C2440: “初始化”: 无法从“initializer list”转换为“Student”
+C:\Users\木子盛夏\source\repos\实验5.2\实验5.2\main.cpp(6,31): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+C:\Users\木子盛夏\source\repos\实验5.2\实验5.2\main.cpp(7,31): error C2664: “void Student::set_value(int,char *,char)”: 无法将参数 2 从“const char [4]”转换为“char *”
+C:\Users\木子盛夏\source\repos\实验5.2\实验5.2\main.cpp(7,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\木子盛夏\source\repos\实验5.2\实验5.2\student.h(8,10): message : 参见“Student::set_value”的声明
+  正在生成代码...
